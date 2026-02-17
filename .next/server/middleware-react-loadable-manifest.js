@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST="{\"app\\\\(demos)\\\\demo-ocr\\\\page.tsx -> tesseract.js\":{\"id\":\"app\\\\(demos)\\\\demo-ocr\\\\page.tsx -> tesseract.js\",\"files\":[\"static/chunks/_app-pages-browser_node_modules_tesseract_js_src_index_js.js\"]}}"
