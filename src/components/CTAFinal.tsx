@@ -21,7 +21,7 @@ export default function CTAFinal() {
             </Btn>
             <Btn
               variant="outline"
-              href="#"
+              href="/brochure-pagegroup.pdf"
               className="!text-white !ring-white/30"
             >
               Descargar brochure

@@ -29,7 +29,7 @@ export default function Footer() {
             <p className="text-sm text-white/65 leading-loose">
               contacto@jpdigitalsolutionscol.com
               <br />
-              +57 300 000 0000
+              +57  322 875 7972
               <br />
               jpdigital.co
             </p>

@@ -1,7 +1,6 @@
 {
   "/page": "app/page.js",
   "/(demos)/portal-proveedor/page": "app/(demos)/portal-proveedor/page.js",
-  "/(demos)/demo-rapido/page": "app/(demos)/demo-rapido/page.js",
-  "/(demos)/demo-completo/page": "app/(demos)/demo-completo/page.js",
-  "/(demos)/demo-ocr/page": "app/(demos)/demo-ocr/page.js"
+  "/(demos)/demo-ocr/page": "app/(demos)/demo-ocr/page.js",
+  "/(demos)/demo-completo/page": "app/(demos)/demo-completo/page.js"
 }

@@ -21,20 +21,15 @@
       "static/chunks/main-app.js",
       "static/chunks/app/(demos)/layout.js"
     ],
-    "/(demos)/demo-rapido/page": [
+    "/(demos)/demo-ocr/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/(demos)/demo-rapido/page.js"
+      "static/chunks/app/(demos)/demo-ocr/page.js"
     ],
     "/(demos)/demo-completo/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/(demos)/demo-completo/page.js"
-    ],
-    "/(demos)/demo-ocr/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/(demos)/demo-ocr/page.js"
     ]
   }
 }
