@@ -128,7 +128,7 @@ export default function Opciones() {
               <span className="text-sm text-gray-400 mb-5">pago único</span>
               <Btn
                 variant="primary"
-                href="contacto@jpdigitalsolutionscol.com"
+                href="mailto:contacto@jpdigitalsolutionscol.com?subject=Quiero%20la%20opci%C3%B3n%20%28Implementaci%C3%B3n%20r%C3%A1pida%29&body=Hola%20Juan%20Pablo%2C%0A%0AQuiero%20elegir%20esta%20opci%C3%B3n%20y%20coordinar%20los%20siguientes%20pasos.%0A%0ANombre%3A%0AEmpresa%3A%0ATel%C3%A9fono%3A%0A%0AGracias."
                 className="justify-center w-full"
               >
                 Elegir esta opción →
