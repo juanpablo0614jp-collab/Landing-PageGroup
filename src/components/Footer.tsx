@@ -31,7 +31,6 @@ export default function Footer() {
               <br />
               +57  322 875 7972
               <br />
-              jpdigital.co
             </p>
           </div>
           <div>
